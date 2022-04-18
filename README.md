@@ -18,7 +18,18 @@
 </p>
 
 <p align="justify">
-  Sistem olah data citra atau image processing menggunakan Matlab dengan object cabai. Pada sistem ini terdapat fitur untuk mengedit citra menjadi gambar biner, gambar grayscale, maupun deteksi tepi, ada juga fitur untuk menampilkan histogram pada gambar asli beserta data dari ekstraksi fitur dan ekstraksi warna. Data tersebut dapat dianalisis untuk mengetahui tingkat kematangan buah cabai.
+  Sistem olah data citra atau image processing menggunakan Matlab dengan object cabai. Pada sistem ini terdapat fitur untuk mengedit citra menjadi gambar biner, gambar Adapun fitur-fitur sistem informasi UD RINDI TANI ini yaitu :<br>
+- Data karyawan<br>
+- Data supplier<br>
+- Data barang<br>
+- Data kelompok tani<br>
+- Form Transaksi pembelian (barang masuk)<br>
+- Form transaksi penjualan<br>
+- Fitur retur<br> 
+- Laporan transaksi pembelian, penjualan dan retur<br>
+  <br>
+Pertama karyawan dapat login di sistem informasi UD RINDI TANI. Kemudian karyawan dapat melihat data-data yang ada pada menu data yaitu data karyawan, supplier, barang, dan kelompok tani, tentu saja data ini bisa di edit, dan dihapus serta dapat pula menambahkan data baru. Kemudian pengguna/ karyawan juga dapat melakukan transaksi baik penjualan maupun pembelian yang kemudian semuanya akan tercantum di fitur laporan. Untuk transaksi penjualan, bisa di pilih apakah akan diberi diskon atau tidak, dikarenakan khusus untuk kelompok tani akan mendapat diskon/subsisdi. Hal ini dikarenaka toko pertanian memang bekerja sama dengan beberapa kelompok tani di kabupaten jember secara resmi sehingga kelompok tani tersebut secara khusus akan mendapat subsidi.
+
 </p>
 <br>
 <p align="justify">
