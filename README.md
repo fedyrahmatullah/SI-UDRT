@@ -18,7 +18,7 @@
 </p>
 
 <p align="justify">
-  Sistem olah data citra atau image processing menggunakan Matlab dengan object cabai. Pada sistem ini terdapat fitur untuk mengedit citra menjadi gambar biner, gambar Adapun fitur-fitur sistem informasi UD RINDI TANI ini yaitu :<br>
+ Adapun fitur-fitur sistem informasi UD RINDI TANI ini yaitu :<br>
 - Data karyawan<br>
 - Data supplier<br>
 - Data barang<br>
